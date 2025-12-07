@@ -29,3 +29,5 @@ If you find something impressive here, that makes two of us.
 
 Careful while exploring! some repos are stable meanwhile others are just random adrenaline experiences.
 
+If anything here resonates with you, feel free to reach out. ❤️
+
