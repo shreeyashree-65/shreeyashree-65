@@ -4,13 +4,14 @@ If you find something impressive here, that makes two of us.
 I am Shreeya P S,
 Learning and building at the crossroads of Web3 & AI. 
 Kinda obsessed with the idea of a user-owned, decentralized web.
+Driven to create technology that leaves a lasting and meaningful mark on the world.
 
 Currently focused on:
 - Learning ML algorithms
-- Building AI models, LLMs, and agents that hopefully behave
-- Exploring blockchain and making tiny decentralized things that actually work	
+- Building AI models, LLMs, and agents that hopefully behave.
+- Exploring blockchain and making tiny decentralized things that actually work.
 
-I’m looking forward to work on:
+I’m looking forward to working on:
 - Smart Contract logic, dApps, and distributed backend systems.
 - Building AI agents, experimenting with LLM reasoning abilities, designing RAG pipelines, and exploring advanced LLM architectures or integrations.
 
