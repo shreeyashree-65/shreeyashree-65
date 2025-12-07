@@ -9,6 +9,7 @@ If you find something impressive here, that makes two of us.
 
 -Driven to create technology that leaves a lasting and meaningful mark on the world.
 
+
 **Currently focused on:**
 - Learning ML algorithms
 - Building AI models, LLMs, and agents that hopefully behave.
