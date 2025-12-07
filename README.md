@@ -15,11 +15,11 @@ I’m looking forward to work on:
 - Building AI agents, experimenting with LLM reasoning abilities, designing RAG pipelines, and exploring advanced LLM architectures or integrations.
 
 Fun facts:
--I enjoy content writing, cuz speaking all of it will be too much for the society.
--My kind of therapy? Calligraphy and zero appointments.
--Once obsessed with watercolor, now I color-code my life.
--Decentralization is literally my jam.
--I study business strategy for fun, figuring out why things succeed or spectacularly fail.
--Hanging out with peeps (especially the nerdy delulus) is my favorite way to discover new ideas and occasionally new food spots. #deluluistheonlysolulu
+- I enjoy content writing, cuz speaking all of it will be too much for the society.
+- My kind of therapy? Calligraphy and zero appointments.
+- Once obsessed with watercolor, now I color-code my life.
+- Decentralization is literally my jam.
+- I study business strategy for fun, figuring out why things succeed or spectacularly fail.
+- Hanging out with peeps (especially the nerdy delulus) is my favorite way to discover new ideas and occasionally new food spots. #deluluistheonlysolulu
 
 Careful while exploring! some repos are stable meanwhile others are just random adrenaline experiences.
