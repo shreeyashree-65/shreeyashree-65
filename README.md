@@ -1,7 +1,7 @@
 ## Greetings, fellow developer.
 If you find something impressive here, that makes two of us.
 
-I am Shreeya P S,
+# I am Shreeya P S,
 
 -Learning and building at the crossroads of Web3 & AI. 
 
@@ -9,16 +9,16 @@ I am Shreeya P S,
 
 -Driven to create technology that leaves a lasting and meaningful mark on the world.
 
-Currently focused on:
+**Currently focused on:**
 - Learning ML algorithms
 - Building AI models, LLMs, and agents that hopefully behave.
 - Exploring blockchain and making tiny decentralized things that actually work.
 
-I’m looking forward to working on:
+**I’m looking forward to working on:**
 - Smart Contract logic, dApps, and distributed backend systems.
 - Building AI agents, experimenting with LLM reasoning abilities, designing RAG pipelines, and exploring advanced LLM architectures or integrations.
 
-Fun facts:
+**Fun facts:**
 - I enjoy content writing, cuz speaking all of it will be too much for the society.
 - My kind of therapy? Calligraphy and zero appointments.
 - Once obsessed with watercolor, now I color-code my life.
