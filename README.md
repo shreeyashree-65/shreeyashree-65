@@ -2,6 +2,7 @@
 If you find something impressive here, that makes two of us.
 
 I am Shreeya P S,
+
 -Learning and building at the crossroads of Web3 & AI. 
 
 -Kinda obsessed with the idea of a user-owned, decentralized web.
