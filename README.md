@@ -1,16 +1,25 @@
-## Hi 
+##Greetings, fellow developer.
+If you find something impressive here, that makes two of us.
 
-<!--
-**shreeyashree-65/shreeyashree-65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Shreeya P S,
+Learning and building at the crossroads of Web3 & AI. 
+Kinda obsessed with the idea of a user-owned, decentralized web.
 
-Here are some ideas to get you started:
+Currently focused on:
+- Learning ML algorithms
+- Building AI models, LLMs, and agents that hopefully behave
+- Exploring blockchain and making tiny decentralized things that actually work	
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m looking forward to work on:
+- Smart Contract logic, dApps, and distributed backend systems.
+- Building AI agents, experimenting with LLM reasoning abilities, designing RAG pipelines, and exploring advanced LLM architectures or integrations.
+
+Fun facts:
+-I enjoy content writing, cuz speaking all of it will be too much for the society.
+-My kind of therapy? Calligraphy and zero appointments.
+-Once obsessed with watercolor, now I color-code my life.
+-Decentralization is literally my jam.
+-I study business strategy for fun, figuring out why things succeed or spectacularly fail.
+-Hanging out with peeps (especially the nerdy delulus) is my favorite way to discover new ideas and occasionally new food spots. #deluluistheonlysolulu
+
+Careful while exploring! some repos are stable meanwhile others are just random adrenaline experiences.
