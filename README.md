@@ -28,4 +28,4 @@ If you find something impressive here, that makes two of us.
 - Hanging out with peeps (especially the nerdy delulus) is my favorite way to discover new ideas and occasionally new food spots. #deluluistheonlysolulu
 
 Careful while exploring! some repos are stable meanwhile others are just random adrenaline experiences.
-❤️
+
