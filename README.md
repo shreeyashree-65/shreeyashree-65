@@ -2,9 +2,11 @@
 If you find something impressive here, that makes two of us.
 
 I am Shreeya P S,
-Learning and building at the crossroads of Web3 & AI. 
-Kinda obsessed with the idea of a user-owned, decentralized web.
-Driven to create technology that leaves a lasting and meaningful mark on the world.
+-Learning and building at the crossroads of Web3 & AI. 
+
+-Kinda obsessed with the idea of a user-owned, decentralized web.
+
+-Driven to create technology that leaves a lasting and meaningful mark on the world.
 
 Currently focused on:
 - Learning ML algorithms
