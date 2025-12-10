@@ -7,7 +7,7 @@ If you find something impressive here, that makes two of us.
 
 -Kinda obsessed with the idea of a user-owned, decentralized web.
 
--Driven to create technology that leaves a lasting and meaningful mark on the world.
+-Wiling to create technology that leaves a lasting and meaningful mark on the world.
 
 
 **Currently focused on:**
