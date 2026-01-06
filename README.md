@@ -11,13 +11,13 @@ If you find something impressive here, that makes two of us.
 
 
 **Currently focused on:**
-- Learning ML algorithms
+- Learning Data Analysis + ML algorithms
 - Building AI models, LLMs, and agents that hopefully behave.
 - Exploring blockchain and making tiny decentralized things that actually work.
 
 **I’m looking forward to working on:**
 - Smart Contract logic, dApps, and distributed backend systems.
-- Building AI agents, experimenting with LLM reasoning abilities, designing RAG pipelines, and exploring advanced LLM architectures or integrations.
+- Experimenting with LLM reasoning abilities, designing RAG pipelines, Building AI agents,  and exploring advanced LLM architectures or integrations.
 
 **Fun facts:**
 - I enjoy content writing, cuz speaking all of it will be too much for the society.
