@@ -16,6 +16,7 @@ If you find something impressive here, that makes two of us.
 - Exploring blockchain and making tiny decentralized things that actually work.
 
 **I’m looking forward to working on:**
+- solving real-world problem with data science and machine learning.
 - Smart Contract logic, dApps, and distributed backend systems.
 - Experimenting with LLM reasoning abilities, designing RAG pipelines, Building AI agents,  and exploring advanced LLM architectures or integrations.
 
