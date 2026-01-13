@@ -5,7 +5,7 @@ If you find something impressive here, that makes two of us.
 
 -Learning and building at the crossroads of Web3 & AIML. 
 
--Kinda obsessed with the idea of a user-owned, decentralized web.
+-Kinda obsessed with the idea of a user-owned **data**, decentralized web.
 
 -Wiling to create technology that leaves a lasting and meaningful mark on the world.
 
