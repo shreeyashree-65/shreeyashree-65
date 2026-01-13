@@ -3,7 +3,7 @@ If you find something impressive here, that makes two of us.
 
 # I am Shreeya P S,
 
--Learning and building at the crossroads of Web3 & AIML. 
+-Learning and building at the crossroads of Web3, Data Science & AIML. 
 
 -Kinda obsessed with the idea of a user-owned **data**, decentralized web.
 
