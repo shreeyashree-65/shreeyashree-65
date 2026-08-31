@@ -3,7 +3,7 @@ If you find something impressive here, that makes two of us.
 
 # I am Shreeya P S,
 
--Learning and building at the crossroads of Web3 & AIML. 
+-Learning and building in Web3 & AIML. 
 
 -Kinda obsessed with the idea of a user-owned **data**, decentralized web.
 
@@ -17,16 +17,16 @@ If you find something impressive here, that makes two of us.
 
 **I’m looking forward to working on:**
 - solving real-world problem with data science and machine learning.
+- Experimenting with LLMs, designing RAG pipelines, Building AI agents, and exploring advanced LLM architectures.
 - Smart Contract logic, dApps, and distributed backend systems.
-- Experimenting with LLM reasoning abilities, designing RAG pipelines, Building AI agents,  and exploring advanced LLM architectures or integrations.
 
 **Fun facts:**
 - I enjoy content writing, cuz speaking all of it will be too much for the society.
-- My kind of therapy? Calligraphy and zero appointments.
+- My kind of therapy? Calligraphy & zero appointments.
 - Once obsessed with watercolor and painting, now I color-code my life.
 - Decentralization is literally my jam.
 - I study business strategy for fun, figuring out why things succeed or spectacularly fail.
-- Hanging out with peeps (especially the nerdy delulus) is my favorite way to discover new ideas and occasionally new food spots. #deluluistheonlysolulu
+- Hanging out with peeps is my favorite way to discover new ideas and occasionally new food spots. 
 
 Careful while exploring! some repos are stable meanwhile others are just random adrenaline experiences.
 
